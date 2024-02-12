@@ -67,7 +67,7 @@ of polynomial curve-fitting, and options (L: left, R: right, C: center):
 
 $ covidlag 'United States' 600 13 L
 
-<img src='https://github.com/ytakefuji/covidlag/raw/main/United States.png' height=480 width=640>
+<img src='https://github.com/y-takefuji/covidlag/raw/main/United States.png' height=480 width=640>
 This example shows that r-squared of infections:0.803 and r-squared of deaths:0.733
 
 The death peaks are [ 66, 182, 332, 464, 574].
@@ -152,11 +152,11 @@ Therefore, death rate of peaks or CFR is 88/4421=0.019, 92/5902=0.015, and
 
 The CFR is significantly decreasing.
 
-<img src='https://github.com/ytakefuji/covidlag/raw/main/Japan.png' height=480 width=640>
+<img src='https://github.com/y-takefuji/covidlag/raw/main/Japan.png' height=480 width=640>
 
 $ covidlag Canada 400 13 L
 
-<img src='https://github.com/ytakefuji/covidlag/raw/main/Canada.png' height=480 width=640>
+<img src='https://github.com/y-takefuji/covidlag/raw/main/Canada.png' height=480 width=640>
 <pre>
 death peak: 2020-09-07
 death peak: 2021-01-06
